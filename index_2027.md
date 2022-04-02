@@ -24,7 +24,7 @@ __Business Analytics__
 
 #### C-A-L Ranch Stores
 
-`Dec. 2021 - Present`
+`Dec 2021 - Present`
 __Merchandising Assistant__, Ammon, ID
 
 - Processed accurate and timely purchase orders from 20+ vendors for replenishment of 30+ stores and 2 
@@ -32,7 +32,7 @@ distribution centers for Pet department
 - Acted analyzing and identifying store problems to ensure the inventory accuracy within the system
 - Maintained vendors and items data integrity updating information for each store within the operation system
 
-`2021 – Dec 2021`
+`Sep 2021 – Dec 2021`
 __E-Merchant__,
 
 - Gathered Softline’s product data from 80+ vendors using different sources and channels of communication
@@ -42,7 +42,7 @@ correcting errors
 
 #### Brigham Young University - Idaho
 
-`Jan. 2021 – Dec 2021 `
+`Jan 2021 – Dec 2021 `
 __Online Curriculum Development – Project Manager Assistant__, Rexburg, ID
 
 - Analyzed, edited, and developed university online courses using html editor and Canvas system
