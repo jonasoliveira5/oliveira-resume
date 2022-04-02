@@ -56,7 +56,7 @@ __Online Curriculum Development – Project Manager Assistant__, Rexburg, ID
 __Full-time Missionary - The Church of Jesus Christ of Latter-day Saints__, Brazil-Londrina Mission
 
 
-`2017-2017`
+`2017 - 2017`
 __Pathway Connect Missionary__, Brazil
 
 
