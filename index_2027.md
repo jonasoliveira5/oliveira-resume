@@ -28,7 +28,7 @@ __Business Analytics__
 __Merchandising Assistant__, Ammon, ID
 
 - Processed accurate and timely purchase orders from 20+ vendors for replenishment of 30+ stores and 2 
-distribution centers for Pet department
+distribution centers for Pet Care department
 - Acted analyzing and identifying store problems to ensure the inventory accuracy within the system
 - Maintained vendors and items data integrity updating information for each store within the operation system
 
