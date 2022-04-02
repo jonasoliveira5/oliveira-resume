@@ -3,11 +3,10 @@ layout: resume
 title: Jonas Oliveira
 ---
 # Jonas Oliveira
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="jonasoliveira@byui.edu">jonasoliveira@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Business Analytics</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,69 +14,53 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2014-2018`
+__Business Administration__ 
+ Ceuma University, Sao luis - MA, Brazil
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+`2019 - 2022`
+__Business Analytics__
+Brigham Young University - Idaho, Rexburg, ID
 
 
-## Related Experience
 
-### Internships
+## Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+## C-A-L Ranch Stores
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`Dec. 2021 - Present`
+__Merchandising Assistant__, Ammon, ID
 
-### Data Science Lead
+- Processed accurate and timely purchase orders from 20+ vendors for replenishment of 30+ stores and 2 
+distribution centers for Pet department
+- Acted analyzing and identifying store problems to ensure the inventory accuracy within the system
+- Maintained vendors and items data integrity updating information for each store within the operation system
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`2021 – Dec 2021`
+__E-Merchant__,
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Gathered Softline’s product data from 80+ vendors using different sources and channels of communication
+-  Manipulated product data using a template to feed C-A-L Ranch website, updating product content and 
+correcting errors
+- Collaborated with Ecommerce Marketing team working on seasonal website advertisement project 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Brigham Young University - Idaho
+`Jan. 2021 – Dec 2021 `
+__Online Curriculum Development – Project Manager Assistant__, Rexburg, ID
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Analyzed, edited, and developed university online courses using html editor and Canvas system
+- Conducted 20+ online courses, fixing errors and updating content
+- Built online courses, creating lesson structure, quizzes, assignments, question banks, and exams
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2010 - 2012`
+__Full-time Missionary - The Church of Jesus Christ of Latter-day Saints__, Brazil-Londrina Mission
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2017`
+__Pathway Connect Missionary__, Brazil
 
 
 
