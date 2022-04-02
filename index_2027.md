@@ -1,12 +1,8 @@
----
-layout: resume
-title: Jonas Oliveira
----
 # Jonas Oliveira
 
 <div id="webaddress">
 <a href="jonasoliveira@byui.edu">jonasoliveira@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Business Analytics</a>
+| <a href="https://linkedin.com/in/jonasoliveira5/">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -26,7 +22,7 @@ Brigham Young University - Idaho, Rexburg, ID
 
 ## Experience
 
-## C-A-L Ranch Stores
+#### C-A-L Ranch Stores
 
 `Dec. 2021 - Present`
 __Merchandising Assistant__, Ammon, ID
@@ -44,7 +40,8 @@ __E-Merchant__,
 correcting errors
 - Collaborated with Ecommerce Marketing team working on seasonal website advertisement project 
 
-## Brigham Young University - Idaho
+#### Brigham Young University - Idaho
+
 `Jan. 2021 – Dec 2021 `
 __Online Curriculum Development – Project Manager Assistant__, Rexburg, ID
 
