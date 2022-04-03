@@ -11,11 +11,11 @@
 ## Education
 
 `2014 - 2018`
-__Business Administration__ 
+__Business Administration__ - 
  Ceuma University, Sao Luis - MA, Brazil
 
 `2019 - 2022`
-__Business Analytics__
+__Business Analytics__ - 
  Brigham Young University - Idaho, Rexburg, ID
 
 
