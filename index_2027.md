@@ -22,10 +22,10 @@ __Business Analytics__
 
 ## Experience
 
-#### C-A-L Ranch Stores
+#### C-A-L Ranch Stores, Ammon, ID
 
 `Dec 2021 - Present`
-__Merchandising Assistant__, Ammon, ID
+__Merchandising Assistant__
 
 - Processed accurate and timely purchase orders from 20+ vendors for replenishment of 30+ stores and 2 
 distribution centers for Pet Care department
@@ -40,10 +40,10 @@ __E-Merchant__,
 correcting errors
 - Collaborated with Ecommerce Marketing team working on seasonal website advertisement project 
 
-#### Brigham Young University - Idaho
+#### Brigham Young University - Idaho, Rexburg, ID
 
 `Jan 2021 – Dec 2021 `
-__Online Curriculum Development – Project Manager Assistant__, Rexburg, ID
+__Online Curriculum Development – Project Manager Assistant__
 
 - Analyzed, edited, and developed university online courses using html editor and Canvas system
 - Conducted 20+ online courses, fixing errors and updating content
