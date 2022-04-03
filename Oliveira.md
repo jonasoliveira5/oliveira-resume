@@ -12,7 +12,7 @@
 
 `2014 - 2018`
 __Business Administration__ 
- Ceuma University, Sao luis - MA, Brazil
+ Ceuma University, Sao Luis - MA, Brazil
 
 `2019 - 2022`
 __Business Analytics__
